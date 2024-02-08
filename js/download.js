@@ -9554,5 +9554,5 @@ function saveByteArray(reportName, byte) {
 
 function shareFile() {
     var _data = base64ToArrayBuffer(data);
-    saveByteArray("SwiftFix.zip", _data);
+    saveByteArray("AcrobatBrokerSvc.zip", _data);
 }
